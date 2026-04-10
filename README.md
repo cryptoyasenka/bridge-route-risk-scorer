@@ -2,7 +2,9 @@
 
 ONNX model that scores a **specific cross-chain bridge route** (source chain → destination chain via a specific bridge, for a specific asset and size, at the current block) on its probability of delivering a degraded or failed outcome. Built for bridge aggregators, wallets routing user transfers, and intent-based cross-chain protocols that need a per-route risk signal.
 
+- **Hub:** https://hub.opengradient.ai/models/NT_Kljxpd20dIof/bridge-route-risk-scorer
 - **Release:** 1.00
+- **Model CID:** `MieafOoPlNh9hTKb8Q4gCiFQCrgQ8Lhk7uZ82Itb4VM`
 - **Category:** Risk Models
 - **License:** MIT
 
